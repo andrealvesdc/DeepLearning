@@ -5,7 +5,7 @@ Spyder Editor
 @author: Andre Alves.
 """
 
-entradas = [-1, 7, 5]
+entradas = [1, 7, 5]
 pesos = [0.8, 0.1, 0]
 
 def soma(e, p):
